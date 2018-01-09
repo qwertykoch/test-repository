@@ -1,2 +1,2 @@
 this is test doc
-This is my first change to the txt file
+I deleted my first edit. This is second one.
